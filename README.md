@@ -14,4 +14,3 @@ This project analyzes user behavior, cooking preferences, and order trends using
 - `UserDetails.csv`: Dataset containing user details.
 - `CookingSessions.csv`: Dataset containing cooking session details.
 - `OrderDetails.csv`: Dataset containing order details.
-- `visualizations/`: Folder containing generated visualizations.
